@@ -1,0 +1,12 @@
+name: satellite-tracking
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - opencv
+  - scikit-image
+  - matplotlib
+  - pip
+  - ipykernel
+  - pandas
