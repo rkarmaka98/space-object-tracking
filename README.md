@@ -16,15 +16,6 @@ This repository contains a Jupyter notebook and sample data that demonstrate how
 
 ---
 
-## Setup
-
-Create and activate the (lightweight) Conda environment:
-
-```bash
-conda env create -f environment.yml
-conda activate envname
-```
-
 ## How to Run
 
 Follow these steps to set up and run the project locally:
@@ -33,6 +24,15 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/rkarmaka98/space-object-tracking.git
 cd space-object-tracking
+```
+
+## Setup
+
+Create and activate the (lightweight) Conda environment:
+
+```bash
+conda env create -f environment.yml
+conda activate satellite-tracking
 ```
 
 ## Dependencies
